@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import { Button } from './Feedback.styled';
 
 export const FeedbackOptions = ({options, onLeaveFeedback }) => {
-    // console.log(options)
+    
     return (
     <div>
         
